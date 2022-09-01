@@ -1,6 +1,7 @@
 0x01. Shell, permissions  README.md
 
 1.My name is Betty- a script that switches the current user to the user betty
+
 .
 2.Who am I-  a script that prints the effective username of the current user.
 
