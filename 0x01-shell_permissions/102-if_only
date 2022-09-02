@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -c USER=guillaume betty hello
+chown --c from=guillaume betty hello
