@@ -1,0 +1,28 @@
+total 0
+drwxrwxrwx 1 sebba sebba 4096 Sep  5 10:54 .
+drwxrwxrwx 1 sebba sebba 4096 Sep  5 09:53 ..
+-rwxrw-rw- 1 sebba sebba   30 Sep  5 10:26 0-hello_world
+-rwxrw-rw- 1 sebba sebba   27 Sep  5 10:33 1-confused_smiley
+-rwxrw-rw- 1 sebba sebba   28 Sep  5 10:35 2-hellofile
+-rwxrw-rw- 1 sebba sebba   39 Sep  5 10:38 3-twofiles
+-rwxrw-rw- 1 sebba sebba   29 Sep  5 10:40 4-lastfiles
+-rwxrw-rw- 1 sebba sebba   29 Sep  5 10:41 5-firstlines
+-rwxrw-rw- 1 sebba sebba   35 Sep  5 10:47 6-third_line
+-rwxrw-rw- 1 sebba sebba   77 Sep  5 10:52 7-files
+-rwxrw-rw- 1 sebba sebba   37 Sep  5 10:54 8-cwd_state
+-rw-rw-rw- 1 sebba sebba   37 Sep  5 10:21 README.md
+-rw-rw-rw- 1 sebba sebba    0 Sep  5 10:54 ls_cwd_content
+total 4
+drwxrwxrwx 1 sebba sebba 4096 Sep  5 10:54 .
+drwxrwxrwx 1 sebba sebba 4096 Sep  5 09:53 ..
+-rwxrw-rw- 1 sebba sebba   30 Sep  5 10:26 0-hello_world
+-rwxrw-rw- 1 sebba sebba   27 Sep  5 10:33 1-confused_smiley
+-rwxrw-rw- 1 sebba sebba   28 Sep  5 10:35 2-hellofile
+-rwxrw-rw- 1 sebba sebba   39 Sep  5 10:38 3-twofiles
+-rwxrw-rw- 1 sebba sebba   29 Sep  5 10:40 4-lastfiles
+-rwxrw-rw- 1 sebba sebba   29 Sep  5 10:41 5-firstlines
+-rwxrw-rw- 1 sebba sebba   35 Sep  5 10:47 6-third_line
+-rwxrw-rw- 1 sebba sebba   77 Sep  5 10:52 7-files
+-rwxrw-rw- 1 sebba sebba   37 Sep  5 10:54 8-cwd_state
+-rw-rw-rw- 1 sebba sebba   37 Sep  5 10:21 README.md
+-rwxrw-rw- 1 sebba sebba  710 Sep  5 10:54 ls_cwd_content
